@@ -29,3 +29,4 @@ dump.sql
 # Miscellaneous artifacts
 coverage-backup.tar.gz
 bolt-backend.zip
+.env
