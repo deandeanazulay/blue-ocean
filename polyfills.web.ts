@@ -4,7 +4,7 @@ import {
   ensureTslibDefault,
   type GlobalLike,
 } from './polyfills/shared';
-import { debugLog } from './utils/logger';
+import { debugLog } from '@/utils/logger';
 
 // Ensure Expo Modules web shims are loaded so globalThis.expo is defined
 try {
